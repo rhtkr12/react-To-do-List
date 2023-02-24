@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(229, 229, 235);
+}
+.container {
+  background-color: white;
+  width: 70%;
+  padding: 20px;
+  border-radius: 10px;
+}
+form h1 {
+  font-weight: 500;
+}
+ul li {
+  list-style-type: none;
+  text-decoration: line-through;
+}
+ul li:hover {
+  color: blue;
+}
